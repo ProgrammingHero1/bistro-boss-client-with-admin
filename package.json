@@ -17,7 +17,8 @@
     "react-dom": "^18.2.0",
     "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^6.11.2",
-    "sort-by": "^1.2.0"
+    "sort-by": "^1.2.0",
+    "swiper": "^9.3.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
